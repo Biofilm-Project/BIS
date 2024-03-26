@@ -9,6 +9,24 @@ Light microscopy is the simplest and fastest microscopic technique for biofilm a
 - **Light diffuser:** A piece of white acrylic can be placed between the multiwell and the light source to diffuse the light intensity and prevent saturation.
 - **Light source:** TBD.
 
+## Bill of Materials
+### Electronics
+- x1 [USB microscope](https://www.amazon.com/Microscope-Bysameyee-40X-1000X-Magnification-Endoscope/dp/B07BF86SRP/ref=sr_1_32_sspa?sr=8-32-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1)
+
+### Mechanics
+- x4 [M5 nuts](https://www.mcmaster.com/products/nuts/thread-size~m5/hex-nuts~/metric-medium-strength-steel-hex-nuts-class-8/)
+- x4 [M5x30 bolts with hex head](https://www.fixingsmegastore.co.uk/m5x30-hex-head-set-screw-stainless-steel)
+
+### 3D printed parts
+- x1 [base](https://github.com/Biofilm-Project/BIS/blob/main/STL/baseMINI.stl)
+- x1 [mount](https://github.com/Biofilm-Project/BIS/blob/main/STL/mount.stl)
+- x4 [knob](https://github.com/Biofilm-Project/BIS/blob/main/STL/knob.stl)
+- x2 [arm 1](https://github.com/Biofilm-Project/BIS/blob/main/STL/arm-1.stl)
+- x1 [arm 2](https://github.com/Biofilm-Project/BIS/blob/main/STL/arm-2.stl)
+
+### Others
+- x1 [5 mm white opaque acrylic sheet](https://www.canalplastic.com/products/7508-white-opaque-acrylic-sheet?variant=32920759054)
+  
 ## References
 - [Modular stand for electronic microscope](https://www.printables.com/model/48589-modular-stand-for-electronic-microscope) by Chrlee
 - [USB Microscope Adapter for Modular Stand](https://www.printables.com/model/48594-usb-microscope-adapter-for-modular-stand) by Chrlee
