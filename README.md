@@ -1,6 +1,8 @@
 # Biofilm Imaging Station (BIS)
 
-Light microscopy is the simplest and fastest microscopic technique for biofilm analysis, but bulky and expensive instruments are still required. To make this method more compact and affordable, we reproduced and tested a 3D-printed solution based on previous designs to replace conventional instrumentation. This station aims to facilitate the quantification of crystal-violet stained biofilm on multiwell plates while enabling method reproducibility. The current design emulates an upright microscope, where the sensor is above the multiwell plate while the illumination is placed below the plate.
+Light microscopy is the simplest and fastest microscopic technique for biofilm analysis, but bulky and expensive instruments are still required. To make this method more compact and affordable, we reproduced and tested a 3D-printed solution based on previous designs to replace conventional instrumentation. This station aims to facilitate the quantification of crystal-violet stained biofilm on multiwell plates while enabling method reproducibility. The current design emulates an upright microscope, where the sensor is above the multiwell plate while the illumination is placed below the plate. We recommend using the *[Biofilm Analyzer Software](https://github.com/Biofilm-Project/BAS)* to analyze generated biofilm images.
+
+> NOTE: This repository is under construction
 
 ![](images/BIS.png)
 
